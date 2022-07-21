@@ -2,16 +2,12 @@
 
 This is my final undergraduate project. It essentially combines all my machine learning knowledge into a succinct project. This utilizes MuJoCo through a slightly modified environment based on OpenAI's gym to train and evaluate different generated morphologies. The morphology are designed by a genetic algorithm, and evaluated with a reinforcement learning algorithm called TD3.
 
-&nbsp;
-
 ## Examples
 
 You can read the paper associated with the project [here](docs/paper.pdf), however, reading it won't be necessary as I'll provide the data here.
 
-&nbsp;
-
 ### **Examples of generated morphology:**
-<img src="docs/Gen-0_0.png" width="200">
+|<img src="docs/Gen-0_0.png" width="200">
 <img src="docs/Gen-0_1.png" width="200">
 <img src="docs/Gen-0_2.png" width="200">
 <img src="docs/Gen-0_3.png" width="200">
